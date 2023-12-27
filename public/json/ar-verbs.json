@@ -1,0 +1,50 @@
+{
+    "regular": {
+        "endings": {
+            "infinitive": "ar",
+            "present": {
+                "singular": {
+                    "yo": "o",
+                    "tú": "as",
+                    "él": "a",
+                    "ella": "a",
+                    "usted": "a"
+                },
+                "plural": {
+                    "nosotros": "amos",
+                    "nosotras": "amos",
+                    "vosotros": "áis",
+                    "vosotras": "áis",
+                    "ellos": "an",
+                    "ellas": "an",
+                    "ustedes": "an"
+                } 
+            }
+        },
+        "stems": [
+            {"stem": "viaj", "definition": "to travel"},
+            {"stem": "mir", "definition": "to look at, to watch"},
+            {"stem": "ayud", "definition": "to help"},
+            {"stem": "lleg", "definition": "to arrive"},
+            {"stem": "compr", "definition": "to buy"},
+            {"stem": "enseñ", "definition": "to teach"},
+            {"stem": "trat", "definition": "to try, to treat"},
+            {"stem": "tom", "definition": "to take, to drink"},
+            {"stem": "esper", "definition": "to wait, to hope"},
+            {"stem": "pregunt", "definition": "to ask"},
+            {"stem": "viaj", "definition": "to travel"},
+            {"stem": "mir", "definition": "to look at, to watch"},
+            {"stem": "ayud", "definition": "to help"},
+            {"stem": "lleg", "definition": "to arrive"},
+            {"stem": "compr", "definition": "to buy"},
+            {"stem": "enseñ", "definition": "to teach"},
+            {"stem": "trat", "definition": "to try, to treat"},
+            {"stem": "tom", "definition": "to take, to drink"},
+            {"stem": "esper", "definition": "to wait, to hope"},
+            {"stem": "pregunt", "definition": "to ask"}            
+        ]
+    },
+    "irregular": {
+
+    }
+}

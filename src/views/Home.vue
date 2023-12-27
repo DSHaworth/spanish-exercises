@@ -1,7 +1,7 @@
 <template>
-  <HelloWorld />
+  <arVerbs />
 </template>
 
 <script setup>
-  import HelloWorld from '@/components/HelloWorld.vue'
+  import arVerbs from '@/components/arVerbs.vue'
 </script>
