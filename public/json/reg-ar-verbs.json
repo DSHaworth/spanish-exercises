@@ -1,0 +1,29 @@
+{
+    "present": {
+        "singular": {
+            "yo": "o",
+            "tú": "as",
+            "él": "a",
+            "ella": "a",
+            "usted": "a"
+        },
+        "plural": {
+            "nosotros": "amos",
+            "nosotras": "amos",
+            "vosotros": "áis",
+            "vosotras": "áis",
+            "ellos": "an",
+            "ellas": "an",
+            "ustedes": "an"
+        } 
+    },  
+    "exercises": {
+        "hablar":
+        {
+            "infinitive": "hablar",
+            "stem": "habl",
+            "noun-phrase": ["con mi maestra", "con mis maestras", "con su tío", "con sus tías"],
+            "basic-sentence": "{subject} {verb} {noun-phrase}"
+        }
+    }
+}
